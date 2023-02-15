@@ -1,8 +1,2 @@
 # CNN based Models
-> AlexNet
-
-> VGGNet
-
-> GoogLeNet
-
-> ResNet
+> AlexNet, VGGNet, GoogLeNet, ResNet
