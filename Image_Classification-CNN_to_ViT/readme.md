@@ -1,6 +1,6 @@
 
 # Group Project 
-- Title: Study on Transition of Image Classification – Code Implementation with PyTorch from AlexNet to Vision Transformer
+>> Title: Study on Transition of Image Classification – Code Implementation with PyTorch from AlexNet to Vision Transformer
 > Members : Juan Park, Sogang Lee, Jeongkyu Lee, Georyang Park, Jiseok Son
 
 ---
