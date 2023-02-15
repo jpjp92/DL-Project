@@ -1,10 +1,10 @@
 # [PyTorch] Image Classification Codes
----
-CNN based Model
+
+>CNN based Model
 - AlexNet
 - VGGNet
 - GoogLeNet
 - ResNet
 
-Transformer based Model
+>Transformer based Model
 - Vision Transformer
