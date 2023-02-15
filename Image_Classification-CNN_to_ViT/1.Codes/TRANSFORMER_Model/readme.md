@@ -1,2 +1,2 @@
 # TRANSFORMER Model
-> Vision Transformer 
+> Vision Transformer (ViT)
