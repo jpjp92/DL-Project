@@ -7,9 +7,9 @@
 
 - Pytorch Implementation code on "1.Code" 
 
-- Analyzed report is on "2.Report"
+- Analyzed report on "2.Report"
 
-- Presentation is on "3.PT"
+- Presentation on "3.PT"
 
 - Test Results Graphs on "4.Graphics"
 
