@@ -7,4 +7,4 @@
 - ResNet
 
 >Transformer based Model
-- Vision Transformer
+- Vision Transformer (ViT)
