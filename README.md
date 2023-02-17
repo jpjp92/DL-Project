@@ -1,4 +1,4 @@
-> # Paper Implementation project with PyTorch 
+> # Paper Implementation Project with PyTorch 
 ---
 - AlexNet
 - VGGNet
